@@ -1,5 +1,8 @@
 # ETL_Project
 
+# Final report: https://github.com/22OVERSooN/ETL_Project/blob/main/ETL%20Technical%20%20Report.pdf
+
+
 # Guidelines for ETL Project
 This document contains guidelines, requirements, and suggestions for Project 1.
 
