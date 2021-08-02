@@ -2,8 +2,6 @@
 
 # Final report: https://github.com/22OVERSooN/ETL_Project/blob/main/ETL%20Technical%20%20Report.pdf
 
-![Screen Shot 2021-08-02 at 8 56 45 pm](https://user-images.githubusercontent.com/75764401/127851167-e1c16426-861d-4343-b6c8-d59b1767ded7.png)
-
 
 # Guidelines for ETL Project
 This document contains guidelines, requirements, and suggestions for Project 1.
